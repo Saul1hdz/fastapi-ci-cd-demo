@@ -3,7 +3,7 @@ from fastapi import FastAPI
 app = FastAPI(
     title="API de ejemplo para CI/CD",
     description="Proyecto educativo para probar GitHub Actions sin Docker.",
-    version="1.0.0",
+    version="1.1.0",
 )
 
 
